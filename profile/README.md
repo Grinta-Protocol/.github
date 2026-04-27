@@ -1,12 +1,16 @@
-<!-- Grinta Governance - Índice (README.md) -->
+<!-- Grinta Protocol - Índice (README.md) -->
 
 <p align="middle">
   <img src="https://grinta-governance.pages.dev/assets/grinta-logo-DpRy8LFW.png" width="160" />
 </p>
 
-# Grinta Governance — Índice
+# Grinta Protocol
 
-## Repositorios / Apps
+<p align="middle">
+  <strong>AGENT NATIVESTABLE witouth human risk</strong>
+</p>
+
+## Repositories / Apps
 
 - **Grinta-Prototipe-UI**  
   Repo: https://github.com/Grinta-Protocol/Grinta-Prototipe-UI  
@@ -20,7 +24,7 @@
   Repo: https://github.com/Grinta-Protocol/Grinta-Loop-Shanghai  
   App: https://grinta-poc-ui.vercel.app
 
-## Versiones (protocolos / contratos)
+## Versions (protocol / contracts)
 
 - **Solidity version**  
   https://github.com/Grinta-Protocol/grinta-solidity
@@ -28,6 +32,6 @@
 - **Starknet version**  
   https://github.com/Grinta-Protocol/Contracts-Prototype
 
-## Desarrollado por
+## Developed by
 
-Desarrollado por **Reflecter Labs**: https://reflecterlabs.xyz/
+Developed by **Reflecter Labs**: https://reflecterlabs.xyz/
