@@ -7,7 +7,7 @@
 # Grinta Protocol
 
 <p align="middle">
-  <strong>AGENT NATIVESTABLE witouth human risk</strong>
+  <strong>AGENT NATIVE STABLE COIN witouth HUMAN RISK</strong>
 </p>
 
 ## Repositories / Apps
